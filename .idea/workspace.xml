@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34a89ab7-ca11-4ee0-b788-bb3ce48d4231" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0-es6-example-1.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/01-DocumentationQuestions/ReactJS.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/02-HelloReact/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/02-HelloReact/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/02-HelloReact/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/02-HelloReact/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/02-HelloReact/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/03-HelloDiv/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/03-HelloDiv/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/03-HelloDiv/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/03-HelloDiv/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/03-HelloDiv/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/04-HelloBootstrap/skeleton/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/04-HelloBootstrap/skeleton/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/04-HelloBootstrap/skeleton/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/04-HelloBootstrap/skeleton/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/04-HelloBootstrap/skeleton/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/05-JSXVariables/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/05-JSXVariables/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/05-JSXVariables/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/05-JSXVariables/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/05-JSXVariables/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/07-MyFirstComponent/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/07-MyFirstComponent/app/components/Header.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/07-MyFirstComponent/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/07-MyFirstComponent/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/07-MyFirstComponent/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/07-MyFirstComponent/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/08-MultipleComponents/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/08-MultipleComponents/app/components/Header.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/08-MultipleComponents/app/components/Results.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/08-MultipleComponents/app/components/Search.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/08-MultipleComponents/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/08-MultipleComponents/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/08-MultipleComponents/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/08-MultipleComponents/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/09-Bonus-Exercise/skeleton/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/09-Bonus-Exercise/skeleton/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/09-Bonus-Exercise/skeleton/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/09-Bonus-Exercise/skeleton/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Instructions/09-Bonus-Exercise/skeleton/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/02-HelloReact/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/02-HelloReact/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/02-HelloReact/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/02-HelloReact/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/02-HelloReact/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/03-HelloDiv/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/03-HelloDiv/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/03-HelloDiv/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/03-HelloDiv/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/03-HelloDiv/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/04-HelloBootstrap/skeleton/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/04-HelloBootstrap/skeleton/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/04-HelloBootstrap/skeleton/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/04-HelloBootstrap/skeleton/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/04-HelloBootstrap/skeleton/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/04-HelloBootstrap/solution/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/04-HelloBootstrap/solution/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/04-HelloBootstrap/solution/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/04-HelloBootstrap/solution/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/04-HelloBootstrap/solution/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/05-JSXVariables/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/05-JSXVariables/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/05-JSXVariables/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/05-JSXVariables/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/05-JSXVariables/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/06-JSXMomentJS/skeleton/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/06-JSXMomentJS/skeleton/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/06-JSXMomentJS/skeleton/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/06-JSXMomentJS/skeleton/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/06-JSXMomentJS/skeleton/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/06-JSXMomentJS/solution/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/06-JSXMomentJS/solution/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/06-JSXMomentJS/solution/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/06-JSXMomentJS/solution/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/06-JSXMomentJS/solution/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/07-MyFirstComponent/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/07-MyFirstComponent/app/components/Header.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/07-MyFirstComponent/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/07-MyFirstComponent/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/07-MyFirstComponent/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/07-MyFirstComponent/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/08-MultipleComponents/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/08-MultipleComponents/app/components/Header.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/08-MultipleComponents/app/components/Results.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/08-MultipleComponents/app/components/Search.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/08-MultipleComponents/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/08-MultipleComponents/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/08-MultipleComponents/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/08-MultipleComponents/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/09-Bonus-Exercise/skeleton/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/09-Bonus-Exercise/skeleton/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/09-Bonus-Exercise/skeleton/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/09-Bonus-Exercise/skeleton/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/09-Bonus-Exercise/skeleton/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/09-Bonus-Exercise/solution/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/09-Bonus-Exercise/solution/app/components/Jumbotron.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/09-Bonus-Exercise/solution/app/components/Navbar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/09-Bonus-Exercise/solution/app/components/Panel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/09-Bonus-Exercise/solution/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/09-Bonus-Exercise/solution/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/09-Bonus-Exercise/solution/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.1/Solutions/09-Bonus-Exercise/solution/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/10-WarmupActivity-Students/Unsolved/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/10-WarmupActivity-Students/Unsolved/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/10-WarmupActivity-Students/Unsolved/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/10-WarmupActivity-Students/Unsolved/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/11-BasicPropsState/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/11-BasicPropsState/app/components/Child.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/11-BasicPropsState/app/components/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/11-BasicPropsState/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/11-BasicPropsState/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/11-BasicPropsState/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/11-BasicPropsState/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/12-Parent-to-Child-Students/Unsolved/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/12-Parent-to-Child-Students/Unsolved/app/components/Parent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/12-Parent-to-Child-Students/Unsolved/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/12-Parent-to-Child-Students/Unsolved/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/12-Parent-to-Child-Students/Unsolved/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/13-CrazyClickCounters-Students/Unsolved/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/13-CrazyClickCounters-Students/Unsolved/app/components/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/13-CrazyClickCounters-Students/Unsolved/app/components/panels/Adder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/13-CrazyClickCounters-Students/Unsolved/app/components/panels/Imgr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/13-CrazyClickCounters-Students/Unsolved/app/components/panels/Multiplier.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/13-CrazyClickCounters-Students/Unsolved/app/components/panels/Randomizer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/13-CrazyClickCounters-Students/Unsolved/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/13-CrazyClickCounters-Students/Unsolved/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/14-Child-to-Parent/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/14-Child-to-Parent/app/components/Child.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/14-Child-to-Parent/app/components/Parent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/14-Child-to-Parent/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/14-Child-to-Parent/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/14-Child-to-Parent/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/14-Child-to-Parent/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/15-FeedMeSeymour-Students/Unsolved/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/15-FeedMeSeymour-Students/Unsolved/app/components/AudreyII.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/15-FeedMeSeymour-Students/Unsolved/app/components/children/Child1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/15-FeedMeSeymour-Students/Unsolved/app/components/children/Child2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/15-FeedMeSeymour-Students/Unsolved/app/components/children/Child3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/15-FeedMeSeymour-Students/Unsolved/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/15-FeedMeSeymour-Students/Unsolved/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/15-FeedMeSeymour-Students/Unsolved/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/15-FeedMeSeymour-Students/Unsolved/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/16-FormHandling/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/16-FormHandling/app/components/Form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/16-FormHandling/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/16-FormHandling/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/16-FormHandling/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/16-FormHandling/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/17-AddressFinder-Students/Unsolved/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/17-AddressFinder-Students/Unsolved/app/components/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/17-AddressFinder-Students/Unsolved/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/17-AddressFinder-Students/Unsolved/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.2/17-AddressFinder-Students/Unsolved/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/18-IntroMERN/Solved/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/18-IntroMERN/Solved/app/components/Child.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/18-IntroMERN/Solved/app/components/Grandchild.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/18-IntroMERN/Solved/app/components/Parent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/18-IntroMERN/Solved/app/utils/helpers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/18-IntroMERN/Solved/models/click.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/18-IntroMERN/Solved/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/18-IntroMERN/Solved/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/18-IntroMERN/Solved/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/18-IntroMERN/Solved/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/18-IntroMERN/Solved/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/18-IntroMERN/UNSOLVED/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/18-IntroMERN/UNSOLVED/app/components/Child.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/18-IntroMERN/UNSOLVED/app/components/Grandchild.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/18-IntroMERN/UNSOLVED/app/components/Parent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/18-IntroMERN/UNSOLVED/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/18-IntroMERN/UNSOLVED/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/18-IntroMERN/UNSOLVED/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/18-IntroMERN/UNSOLVED/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/18-IntroMERN/UNSOLVED/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/19-AddressMERN-Students/SOLVED/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/19-AddressMERN-Students/SOLVED/app/components/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/19-AddressMERN-Students/SOLVED/app/components/children/Form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/19-AddressMERN-Students/SOLVED/app/components/children/History.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/19-AddressMERN-Students/SOLVED/app/components/children/Results.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/19-AddressMERN-Students/SOLVED/app/components/utils/helpers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/19-AddressMERN-Students/SOLVED/models/History.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/19-AddressMERN-Students/SOLVED/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/19-AddressMERN-Students/SOLVED/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/19-AddressMERN-Students/SOLVED/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/19-AddressMERN-Students/SOLVED/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/19-AddressMERN-Students/SOLVED/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/19-AddressMERN-Students/UNSOLVED/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/19-AddressMERN-Students/UNSOLVED/app/components/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/19-AddressMERN-Students/UNSOLVED/app/components/children/Form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/19-AddressMERN-Students/UNSOLVED/app/components/children/Results.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/19-AddressMERN-Students/UNSOLVED/app/components/utils/helpers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/19-AddressMERN-Students/UNSOLVED/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/19-AddressMERN-Students/UNSOLVED/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/19-AddressMERN-Students/UNSOLVED/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/19-AddressMERN-Students/UNSOLVED/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/20-IntroRouting/1-Static-Basic/chat.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/20-IntroRouting/1-Static-Basic/info.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/20-IntroRouting/2-SPA-React/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/20-IntroRouting/2-SPA-React/app/components/Chat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/20-IntroRouting/2-SPA-React/app/components/Info.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/20-IntroRouting/2-SPA-React/app/components/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/20-IntroRouting/2-SPA-React/app/config/routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/20-IntroRouting/2-SPA-React/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/20-IntroRouting/2-SPA-React/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/20-IntroRouting/2-SPA-React/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/20-IntroRouting/2-SPA-React/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/21-MyFirstRoute-Students/Solved/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/21-MyFirstRoute-Students/Solved/app/components/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/21-MyFirstRoute-Students/Solved/app/components/children/Child1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/21-MyFirstRoute-Students/Solved/app/components/children/Child2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/21-MyFirstRoute-Students/Solved/app/components/children/grandchildren/GrandChild1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/21-MyFirstRoute-Students/Solved/app/components/children/grandchildren/GrandChild2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/21-MyFirstRoute-Students/Solved/app/config/routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/21-MyFirstRoute-Students/Solved/index_design.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/21-MyFirstRoute-Students/Solved/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/21-MyFirstRoute-Students/Solved/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/21-MyFirstRoute-Students/Solved/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/21-MyFirstRoute-Students/Solved/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/21-MyFirstRoute-Students/Unsolved/index_design.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/22-ES6Demos/comparison.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/23-ES6-BasicComponent/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/23-ES6-BasicComponent/app/components/Child.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/23-ES6-BasicComponent/app/components/Grandchild.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/23-ES6-BasicComponent/app/components/Parent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/23-ES6-BasicComponent/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/23-ES6-BasicComponent/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/23-ES6-BasicComponent/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/23-ES6-BasicComponent/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/24-ES6-Address-Students/Solved/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/24-ES6-Address-Students/Solved/app/components/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/24-ES6-Address-Students/Solved/app/components/children/Form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/24-ES6-Address-Students/Solved/app/components/children/Results.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/24-ES6-Address-Students/Solved/app/components/utils/helpers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/24-ES6-Address-Students/Solved/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/24-ES6-Address-Students/Solved/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/24-ES6-Address-Students/Solved/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/24-ES6-Address-Students/Solved/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/24-ES6-Address-Students/Unsolved/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/24-ES6-Address-Students/Unsolved/app/components/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/24-ES6-Address-Students/Unsolved/app/components/children/Form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/24-ES6-Address-Students/Unsolved/app/components/children/Results.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/24-ES6-Address-Students/Unsolved/app/components/utils/helpers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/24-ES6-Address-Students/Unsolved/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/24-ES6-Address-Students/Unsolved/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/24-ES6-Address-Students/Unsolved/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/React_19.3/24-ES6-Address-Students/Unsolved/webpack.config.js" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="strings-example.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/activities/strings-example.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/react-19-3/18-IntroMERN/Solved/server.js" />
+        <option value="$PROJECT_DIR$/react-19-3/22-ES6Demos/comparison.js" />
+        <option value="$PROJECT_DIR$/1-Const-Let/const-let-example.js" />
+        <option value="$PROJECT_DIR$/activities/const-let-activity.js" />
+        <option value="$PROJECT_DIR$/activities/arrow-functions-example.js" />
+        <option value="$PROJECT_DIR$/activities/my-arrow-functions-work.js" />
+        <option value="$PROJECT_DIR$/activities/strings-example.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="63" />
+    <option name="y" value="66" />
+    <option name="width" value="1316" />
+    <option name="height" value="836" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-19-3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34a89ab7-ca11-4ee0-b788-bb3ce48d4231" name="Default" comment="" />
+      <created>1497114582880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1497114582880</updated>
+      <workItem from="1497114585641" duration="8025000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8025000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="63" y="66" width="1316" height="836" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24772036" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43024772" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/react-19-3/18-IntroMERN/Solved/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-19-3/22-ES6Demos/comparison.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0-es6-example-1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-Const-Let/const-let-example.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-Const-Let/const-let-activity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/const-let-activity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/arrow-functions-example.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/arrow-functions-activity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="30" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/my-arrow-functions-work.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="50" column="32" lean-forward="false" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/strings-example.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
